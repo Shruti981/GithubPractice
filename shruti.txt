@@ -4,3 +4,5 @@ python
 git
 grafan
 ansible
+
+docker
