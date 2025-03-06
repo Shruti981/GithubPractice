@@ -1,0 +1,6 @@
+hello I am shruti
+I am learning:
+python
+git
+grafan
+ansible
